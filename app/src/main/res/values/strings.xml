@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VismaHomework</string>
+    <string name="hint_enter_city_name">ENTER CITY NAME</string>
+    <string name="action_view_history">VIEW HISTORY</string>
+    <string name="error_empty_field">Field can\'t be empty</string>
+    <string name="msg_history_is_empty">History is empty.</string>
+</resources>
