@@ -1,4 +1,4 @@
-"# VismaHomework" 
+# VismaHomework  
 Weather_app
 
 1. Write Weather app using Kotlin.
